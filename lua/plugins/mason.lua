@@ -6,6 +6,7 @@ return {
         "biome",
         "prettierd",
         "stylua",
+        "clang-format",
       },
     },
   },
