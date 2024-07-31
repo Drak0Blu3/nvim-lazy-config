@@ -20,6 +20,8 @@ return {
         astro = { "biome" },
         svelte = { "biome" },
         vue = { "biome" },
+        php = { "php-cs-fixer" },
+        blade = { "blade-formatter" },
       },
     }
     return opts
