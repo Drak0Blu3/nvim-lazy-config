@@ -2,6 +2,12 @@ return {
   "stevearc/conform.nvim",
   opts = function()
     local opts = {
+      default_format_opts = {
+        timeout_ms = 20000,
+        async = false, -- not recommended to change
+        quiet = false, -- not recommended to change
+        lsp_format = "fallback", -- not recommended to change
+      },
       formatters_by_ft = {
         html = { "prettierd", "prettier", stop_after_first = true },
         css = { "prettierd", "prettier", stop_after_first = true },
