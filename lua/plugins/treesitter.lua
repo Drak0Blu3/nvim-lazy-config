@@ -28,6 +28,7 @@ return {
       "graphql",
       "php",
       "php_only",
+      "vue",
     })
   end,
 

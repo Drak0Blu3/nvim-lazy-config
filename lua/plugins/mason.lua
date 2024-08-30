@@ -24,6 +24,7 @@ return {
         "jsonls",
         "tsserver",
         "intelephense",
+        "volar",
       },
     },
   },
