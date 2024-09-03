@@ -25,6 +25,7 @@ return {
         "tsserver",
         "intelephense",
         "volar",
+        "tailwindcss",
       },
     },
   },
