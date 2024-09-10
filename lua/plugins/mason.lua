@@ -22,7 +22,7 @@ return {
         "cssls",
         "emmet_language_server",
         "jsonls",
-        "tsserver",
+        "ts_ls",
         "intelephense",
         "volar",
         "tailwindcss",
