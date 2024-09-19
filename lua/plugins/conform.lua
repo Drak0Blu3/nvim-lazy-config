@@ -25,7 +25,7 @@ return {
         ["typescript.tsx"] = { "biome" },
         astro = { "biome" },
         svelte = { "biome" },
-        vue = { "biome", "prettierd" },
+        vue = { "prettierd", "biome" },
         php = { "php-cs-fixer" },
         blade = { "blade-formatter" },
       },
