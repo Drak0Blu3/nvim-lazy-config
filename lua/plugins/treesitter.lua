@@ -29,6 +29,7 @@ return {
       "php",
       "php_only",
       "vue",
+      "blade",
     })
   end,
 
