@@ -26,6 +26,7 @@ return {
         "intelephense",
         "volar",
         "tailwindcss",
+        "rust_analyzer",
       },
     },
   },

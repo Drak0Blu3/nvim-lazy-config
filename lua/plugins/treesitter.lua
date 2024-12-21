@@ -30,6 +30,7 @@ return {
       "php_only",
       "vue",
       "blade",
+      "rust",
     })
   end,
 
