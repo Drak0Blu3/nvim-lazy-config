@@ -15,7 +15,7 @@ return {
         markdown = { "prettierd", "prettier", stop_after_first = true },
         lua = { "stylua" },
         cpp = { "clang-format" },
-
+        sh = { "shfmt" },
         javascript = { "biome" },
         typescript = { "biome" },
         typescriptreact = { "biome" },
