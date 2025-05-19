@@ -31,6 +31,7 @@ return {
         "rust_analyzer",
         "docker_compose_language_service",
         "dockerls",
+        "nginx_language_server",
       },
     },
   },
