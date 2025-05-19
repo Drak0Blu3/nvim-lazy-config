@@ -29,6 +29,8 @@ return {
         "volar",
         "tailwindcss",
         "rust_analyzer",
+        "docker_compose_language_service",
+        "dockerls",
       },
     },
   },
