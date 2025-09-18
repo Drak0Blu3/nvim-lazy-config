@@ -1,7 +1,6 @@
 return {
   {
     "mason-org/mason.nvim",
-    version = "^1.0.0",
     opts = {
       ensure_installed = {
         "biome",
@@ -16,7 +15,6 @@ return {
   },
   {
     "mason-org/mason-lspconfig.nvim",
-    version = "^1.0.0",
     opts = {
       ensure_installed = {
         "lua_ls",
@@ -26,7 +24,7 @@ return {
         "jsonls",
         "ts_ls",
         "intelephense",
-        "volar",
+        "vue_ls",
         "tailwindcss",
         "rust_analyzer",
         "docker_compose_language_service",
