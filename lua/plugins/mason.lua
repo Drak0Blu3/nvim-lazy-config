@@ -20,6 +20,7 @@ return {
         "lua_ls",
         "clangd",
         "cssls",
+        "gopls",
         "emmet_language_server",
         "jsonls",
         "ts_ls",
